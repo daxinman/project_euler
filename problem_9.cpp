@@ -1,5 +1,5 @@
 // Project Euler
-// Problem 8
+// Problem 9
 
 #include <iostream>
 #include <cmath>
